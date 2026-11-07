@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
+.env
+.env.*
+!.env.example
+*cookie*
+*token*.json
+*credentials*
+*.log
+tmp/
+work/
+browser-profile/
+validation-local.json
+
